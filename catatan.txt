@@ -1,0 +1,29 @@
+ID|Nama_Lengkap||Tanggal|Watu|lokasi|Suhu_Tubuh
+
+80454|548||2022-05-14|10:37|padang|54
+
+
+
+
+ID CATATAN|Nama Lengkap|Tanggal|Waktu|Lokasi|Suhu_Tubuh
+
+8698|548|p|2022-05-13|11:15|padang-solok|54
+
+95442|55||2022-05-06|11:34|padang|45
+
+
+65658|55||2022-05-13|11:34|padang|54
+
+58994|55||2022-05-06|11:37|padang-solok|45
+
+56103|55||2022-05-21|11:39|jepang|40
+24981|55|Rizalul Fikri|2022-05-21|11:40|padang-solok|35
+
+26581|55||2022-05-21|11:39|jepang|35
+
+62518|55||2022-05-21|11:40|padang-solok|36
+
+70477|55||2022-05-21|11:40|padang-solok|80
+70838|55|Rizalul Fikri|2022-05-07|11:45|padang-solok|40
+
+13628|55||2022-05-14|11:46|padang|70

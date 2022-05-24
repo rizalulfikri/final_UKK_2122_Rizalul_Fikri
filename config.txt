@@ -1,0 +1,7 @@
+NIK|NAMA LENGKAP
+
+123|Muhammad
+999|Andi
+548|p
+12345|Rizalul Fikri
+55|Rizalul Fikri
